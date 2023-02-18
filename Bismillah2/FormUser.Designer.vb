@@ -293,7 +293,7 @@ Partial Class FormUser
         'ComboBox1
         '
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Administrator", "Worker"})
+        Me.ComboBox1.Items.AddRange(New Object() {"PPIC-WH", "WH Employee"})
         Me.ComboBox1.Location = New System.Drawing.Point(743, 254)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(104, 21)

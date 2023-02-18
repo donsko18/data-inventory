@@ -26,7 +26,7 @@ Public Class FormLogin
                 FormMenu.lblid.Text = rd!userid
                 FormMenu.lblnamauser.Text = rd!username
                 FormMenu.lbllevel.Text = rd!userlvl
-                If FormMenu.lbllevel.Text = "Worker" Then
+                If FormMenu.lbllevel.Text = "WH Employee" Then
                     FormMenu.Button6.Visible = False
                     FormMenu.btnfgin.Visible = False
                     FormMenu.lblin.Visible = False
@@ -85,7 +85,7 @@ Public Class FormLogin
                     FormMenu.lblid.Text = rd!userid
                     FormMenu.lblnamauser.Text = rd!username
                     FormMenu.lbllevel.Text = rd!userlvl
-                    If FormMenu.lbllevel.Text = "Worker" Then
+                    If FormMenu.lbllevel.Text = "WH Employee" Then
                         FormMenu.Button6.Visible = False
                         FormMenu.btnfgin.Visible = False
                         FormMenu.lblin.Visible = False

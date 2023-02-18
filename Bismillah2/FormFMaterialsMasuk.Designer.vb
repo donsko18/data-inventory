@@ -167,7 +167,7 @@ Partial Class FormFMaterialsMasuk
         Me.DGV1.Location = New System.Drawing.Point(342, 262)
         Me.DGV1.Name = "DGV1"
         Me.DGV1.RowTemplate.Height = 25
-        Me.DGV1.Size = New System.Drawing.Size(388, 202)
+        Me.DGV1.Size = New System.Drawing.Size(422, 269)
         Me.DGV1.TabIndex = 47
         '
         'Label2
