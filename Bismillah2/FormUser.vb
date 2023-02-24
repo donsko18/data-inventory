@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 
 Public Class FormUser
-    Dim con As New SqlConnection("Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\USERS\DONNI\DOCUMENTS\INVENTORYVB.MDF;Integrated Security=True;Connect Timeout=30")
+    Dim con As New SqlConnection("Data Source=mssql-112619-0.cloudclusters.net,19221;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
 
     Public Sub earlycond()
         TextBox2.Enabled = False

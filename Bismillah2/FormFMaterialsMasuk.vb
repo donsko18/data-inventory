@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 
 Public Class FormFMaterialsMasuk
-    Dim con As New SqlConnection("Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\donni\Documents\inventoryvb.mdf;Integrated Security=True;Connect Timeout=30")
+    Dim con As New SqlConnection("Data Source=mssql-112619-0.cloudclusters.net,19221;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
     Public Sub isi()
         con.Open()
         Dim sql = "select * from MatTbl"

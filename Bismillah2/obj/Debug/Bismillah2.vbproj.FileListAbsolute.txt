@@ -216,7 +216,6 @@ C:\Users\donni\source\repos\data-inventory\Bismillah2\bin\Debug\ru\Microsoft.Sql
 C:\Users\donni\source\repos\data-inventory\Bismillah2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
 C:\Users\donni\source\repos\data-inventory\Bismillah2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 C:\Users\donni\source\repos\data-inventory\Bismillah2\obj\Debug\Bismillah2.vbproj.AssemblyReference.cache
-C:\Users\donni\source\repos\data-inventory\Bismillah2\obj\Debug\Bismillah2.Form1.resources
 C:\Users\donni\source\repos\data-inventory\Bismillah2\obj\Debug\Bismillah2.FormBarangKeluar.resources
 C:\Users\donni\source\repos\data-inventory\Bismillah2\obj\Debug\Bismillah2.FormBarangMasuk.resources
 C:\Users\donni\source\repos\data-inventory\Bismillah2\obj\Debug\Bismillah2.FormMatMasuk.resources

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bismillah2.exe" size="694184">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bismillah2.exe" size="692648">
       <assemblyIdentity name="Bismillah2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2ZQQPWg8FHSVRwr3B1ao0M03sFq/8H7zfnirXhLD6hU=</dsig:DigestValue>
+        <dsig:DigestValue>AFKT7NLCfghrFXdT0zsO8Up0pwhy6QcX5CkEsCphmwA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
