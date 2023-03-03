@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Public Class ReportsRawPerPeriods
-    Dim con As New SqlConnection("Data Source=mssql-112619-0.cloudclusters.net,19221;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
+    Dim con As New SqlConnection("Data Source=mssql-113670-0.cloudclusters.net,17729;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
     Public cmd As New SqlCommand
     Public rd As SqlDataReader
     Public da As New SqlDataAdapter

@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 
 Public Class FormMatkeluar
-    Dim con As New SqlConnection("Data Source=mssql-112619-0.cloudclusters.net,19221;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
+    Dim con As New SqlConnection("Data Source=mssql-113670-0.cloudclusters.net,17729;Initial Catalog=inventoryvb;User ID=donnie;Password=Donnievp890")
     Dim autocode As String
     Dim autocode1 As String
     Public Sub earlycond()
